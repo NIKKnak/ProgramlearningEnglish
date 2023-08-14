@@ -1,0 +1,15 @@
+C:\Users\nik88\OneDrive\Desktop\C#\English\bin\Debug\net6.0\English.exe
+C:\Users\nik88\OneDrive\Desktop\C#\English\bin\Debug\net6.0\English.deps.json
+C:\Users\nik88\OneDrive\Desktop\C#\English\bin\Debug\net6.0\English.runtimeconfig.json
+C:\Users\nik88\OneDrive\Desktop\C#\English\bin\Debug\net6.0\English.dll
+C:\Users\nik88\OneDrive\Desktop\C#\English\bin\Debug\net6.0\English.pdb
+C:\Users\nik88\OneDrive\Desktop\C#\English\obj\Debug\net6.0\English.csproj.AssemblyReference.cache
+C:\Users\nik88\OneDrive\Desktop\C#\English\obj\Debug\net6.0\English.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nik88\OneDrive\Desktop\C#\English\obj\Debug\net6.0\English.AssemblyInfoInputs.cache
+C:\Users\nik88\OneDrive\Desktop\C#\English\obj\Debug\net6.0\English.AssemblyInfo.cs
+C:\Users\nik88\OneDrive\Desktop\C#\English\obj\Debug\net6.0\English.csproj.CoreCompileInputs.cache
+C:\Users\nik88\OneDrive\Desktop\C#\English\obj\Debug\net6.0\English.dll
+C:\Users\nik88\OneDrive\Desktop\C#\English\obj\Debug\net6.0\refint\English.dll
+C:\Users\nik88\OneDrive\Desktop\C#\English\obj\Debug\net6.0\English.pdb
+C:\Users\nik88\OneDrive\Desktop\C#\English\obj\Debug\net6.0\English.genruntimeconfig.cache
+C:\Users\nik88\OneDrive\Desktop\C#\English\obj\Debug\net6.0\ref\English.dll
