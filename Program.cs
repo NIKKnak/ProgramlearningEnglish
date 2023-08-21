@@ -941,8 +941,6 @@ class Program
 
 
     };
-
-
     public static void PrintWindow(int correct = 0)
     {
         Console.WriteLine("Учим английский");
@@ -950,7 +948,6 @@ class Program
         Console.WriteLine($"Правильных ответов: {correct}");
         Console.WriteLine();
     }
-
     public static string look()
     {
         Random random = new Random();
@@ -959,14 +956,10 @@ class Program
         string randomValue = Words[randomKey];
         return randomKey;
     }
-
     static void Main(string[] args)
     {
 
         int correctAnswer = 0;
-
-
-
         bool exit = true;
         while (exit)
         {
@@ -998,16 +991,6 @@ class Program
                 Console.ReadKey();
                 Console.Clear();
             }
-
-
         }
-
-
-
     }
-
-
-
-
-
 }

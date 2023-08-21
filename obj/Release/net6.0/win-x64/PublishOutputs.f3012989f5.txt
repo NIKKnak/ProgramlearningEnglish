@@ -1,0 +1,2 @@
+C:\Users\nik88\OneDrive\Desktop\C#\English\bin\Release\net6.0\publish\win-x64\English.pdb
+C:\Users\nik88\OneDrive\Desktop\C#\English\bin\Release\net6.0\publish\win-x64\English.exe
